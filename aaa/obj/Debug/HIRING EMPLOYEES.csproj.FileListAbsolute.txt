@@ -1,0 +1,15 @@
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\HIRING EMPLOYEES.csprojAssemblyReference.cache
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.ADD_Resume.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.Employee.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.Form1.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.page1.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.Pending.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.Properties.Resources.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.Setting.resources
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\HIRING EMPLOYEES.csproj.GenerateResource.cache
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\HIRING EMPLOYEES.csproj.CoreCompileInputs.cache
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\Muhsinjon Bokijonov\source\repos\aaa\aaa\obj\Debug\aaa.pdb
